@@ -1,0 +1,21 @@
+# System & OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build artifacts & archives
+*.zip
+*.tar.gz
+*.log
+
+# Development & Test suites
+tests/
+phpunit.xml
+composer.lock
+vendor/

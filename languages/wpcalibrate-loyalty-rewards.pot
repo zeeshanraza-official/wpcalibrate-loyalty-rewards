@@ -1,0 +1,78 @@
+# Copyright (C) 2026 WPCalibrate
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCalibrate Loyalty & Rewards 1.0.0\n"
+"Report-Msgid-Bugs-To: support@wpcalibrate.com\n"
+"POT-Creation-Date: 2026-10-16 12:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2026-YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WPCalibrate <support@wpcalibrate.com>\n"
+"Language-Team: WPCalibrate <support@wpcalibrate.com>\n"
+"X-Generator: WPCLR Localization Tools 1.0.0\n"
+
+#: wpcalibrate-loyalty-rewards.php
+msgid "WPCalibrate Loyalty & Rewards"
+msgstr ""
+
+#: wpcalibrate-loyalty-rewards.php
+msgid "Enterprise-grade loyalty and rewards engine for WooCommerce stores with financial-grade ledger auditing, promotional multipliers, and block checkout support."
+msgstr ""
+
+#: wpcalibrate-loyalty-rewards.php
+msgid "Settings"
+msgstr ""
+
+#: wpcalibrate-loyalty-rewards.php
+msgid "Support"
+msgstr ""
+
+#: src/Points/TransactionService.php
+msgid "A valid user ID is required for loyalty transactions."
+msgstr ""
+
+#: src/Points/TransactionService.php
+msgid "Transaction points delta cannot be zero."
+msgstr ""
+
+#: src/Points/TransactionService.php
+msgid "Insufficient loyalty points balance. Current balance: %1$d, requested deduction: %2$d."
+msgstr ""
+
+#: src/Points/TransactionService.php
+msgid "Points earned from Order #%d"
+msgstr ""
+
+#: src/Points/TransactionService.php
+msgid "Points redeemed for discount on Order #%d"
+msgstr ""
+
+#: src/Redemption/RedemptionService.php
+msgid "You must be logged in to redeem loyalty points."
+msgstr ""
+
+#: src/Redemption/RedemptionService.php
+msgid "A minimum of %d points is required to redeem rewards."
+msgstr ""
+
+#: src/Redemption/RedemptionService.php
+msgid "Reward points cannot be combined with promotional coupons on this order."
+msgstr ""
+
+#: src/Redemption/RedemptionService.php
+msgid "A minimum eligible cart subtotal of %s is required to redeem points."
+msgstr ""
+
+#: src/Redemption/ClassicCartRedemption.php
+msgid "Loyalty Rewards Redemption"
+msgstr ""
+
+#: src/Redemption/ClassicCartRedemption.php
+msgid "Redeem Loyalty Rewards"
+msgstr ""
+
+#: src/Redemption/ClassicCartRedemption.php
+msgid "Loyalty Reward Discount"
+msgstr ""
